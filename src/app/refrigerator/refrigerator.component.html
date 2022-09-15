@@ -1,0 +1,38 @@
+<div *ngFor="let f of fridge" style="border:none;">
+    <div class="row">
+      <!--1st col-->
+      <div class= "col-lg-3">
+        <!--propty binding-->
+        <img [src]="f.img" class="proding">
+    </div>
+    <!--2nd col-->
+<!--<div class="row" styke="width:50%;margin-left:25px;">-->
+      <div class="card col-lg-6" style="border:none;">
+        <div class ="card-body col-lg-12">
+          <div class="row" style="margin-top:10px;border-style:solid;border-color: black;border: radius 10px;">
+            <div class= "col-lg-3">
+              <!--proprty binding-->
+              <img [src]="f.img">
+              </div>
+              <div class="col-lg-9" style ="margin-top: 10px;">
+                <!--interpolition-->
+                <div>
+                  Product:{{f.pname}} | uppercase}}
+                  <span (click)="showproductDetailsToggle()"></span>
+                  </div>
+                  <hr>
+                  <br>
+                  <div [hidden]="productDetail"></div>
+                  Description:{{f.pdescription}}
+                  <br>
+                  Price:{{f.price| currency:'INR'}}
+                </div>
+              </div>
+          </div>
+        </div>
+      </div>  
+           <div class="col col-lg-3">
+        <img [src]="f.img">
+       </div>
+    </div>
+ 

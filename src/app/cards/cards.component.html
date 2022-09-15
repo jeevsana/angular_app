@@ -1,0 +1,25 @@
+<marquee>Lightning deals in amazon</marquee>
+<div *ngFor="let prod of product" style="border:none;">
+    <div class="row">
+        <div class="card col-sm-6" style="border:none;">
+            <div class="card-body col-sm-12">
+                <div class="row" style="margin-top:10px;border-style:solid;border-color:black;border-radius:15px;">
+                    <div class="col-sm-3">
+                        <!--Property Binding-->
+                        <img [src]="prod.img">
+                    </div>
+                    <div class="col-sm-9" style="margin-top:20px;">
+                        <!--Interpolation Binding-->
+                        <div>
+                            Product: {{prod.pname | uppercase}}
+                            <br>
+                            Description: {{prod.pdescription}}
+                            <br>
+                            Price: {{prod.price | currency:'INR'}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>     
+    </div>
+</div>

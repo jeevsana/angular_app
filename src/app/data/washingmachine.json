@@ -1,0 +1,22 @@
+[
+    {
+        "pid":1,
+        "pname":"Samsung ",
+        "pdescription":"double door",
+        "price":17550,
+        "img":"https://th.bing.com/th?id=OPA.6VN0OpKMMpfAng474C474&w=272&h=380&o=5&dpr=1.5&pid=21.1"
+    },
+    {"pid":2,
+        "pname":"whirlpool",
+        "pdescription":"Whirlpool  smart washing  ",
+        "price":12750,
+        "img":"https://th.bing.com/th/id/OIP.KNeWxFAPajg6as9HYwFu0wHaHZ?pid=ImgDet&rs=1"
+    },
+    {
+        "pid":3,
+        "pname":"Godrej",
+        "pdescription":"Single door ",
+        "price":21750,
+        "img":"https://th.bing.com/th/id/OIP.KNeWxFAPajg6as9HYwFu0wHaHZ?pid=ImgDet&rs=1" // <!--change pics for washigmachine-->
+    }
+]
