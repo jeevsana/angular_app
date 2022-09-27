@@ -1,17 +1,4 @@
 img {
     height: 500px;
   }
-  .stylebinding1{
-    color:red;
-    background-color: beige;
-  }
-  /*Class for retrieving details from ProductDetails using *ngFor and *ngSwitchCase*/
-  .red{
-    color:red;
-  }
-  .green{
-    color:green;
-  }
-  .yellow{
-    color:yellow;
-  }
+  
