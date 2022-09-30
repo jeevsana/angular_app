@@ -1,0 +1,186 @@
+[
+    {
+        "pid":1,
+        "pname":"Kids Frock",
+        "pdescription":"Kids dress for girls between 4 - 6 years old",
+        "price":750,
+        "img":"https://th.bing.com/th/id/OIP.p9mcy1s4fqQiU1wJczY7fAHaHK?w=186&h=179&c=7&r=0&o=5&dpr=1.25&pid=1.7"
+    },
+    {
+        "pid":2,
+        "pname":"Kids Building Blocks",
+        "pdescription":"Kids toys for age between 4 - 6 years old",
+        "price":1000,
+        "img":"https://th.bing.com/th/id/OIP.Gd6ov_glKB2t4KzG4vYWbwHaHa?pid=ImgDet&rs=1"
+    },
+    {
+        "pid":3,
+        "pname":"Dell Inspiron 15",
+        "pdescription":"Dell Laptop",
+        "price":45000,
+        "img":"https://th.bing.com/th/id/OIP.w1nfH9XM1EoRpGvSyc-HHQHaHa?pid=ImgDet&rs=1"
+    },
+    {
+        "pid":4,
+        "pname":"Jabra Headphones",
+        "pdescription":"Jabra Headphones",
+        "price":3500,
+        "img":"https://th.bing.com/th/id/OIP.6fUrfdYdaP2E2FMAwbmviQHaHa?pid=ImgDet&rs=1"
+    },
+    {
+        "pid":5,
+        "pname":"Titan Watch",
+        "pdescription":"Titan watch for girls",
+        "price":1500,
+        "img":"https://static-01.daraz.com.np/p/483739b555784acbee3874e5d9f8ffb0.jpg"
+    },
+    {
+        "pid":6,
+        "pname":"Sony TV",
+        "pdescription":"Sony Bravia LED TV - 65 inch",
+        "price":35000,
+        "img":"https://th.bing.com/th/id/OIP.z35a_DfUQDnaHz2Nh8y7OgHaHa?pid=ImgDet&rs=1"
+    },
+    {
+        "pid":1,
+        "pname":"Samsung",
+        "pdescription":"Samsung - double door ",
+        "price":100000,
+        "img":"https://th.bing.com/th/id/OIP.cEq4nA2i692-UiBSIbRf0QHaIq?w=176&h=206&c=7&r=0&o=5&dpr=1.25&pid=1.7"
+    },
+    {
+        "pid":2,
+        "pname":"LG",
+        "pdescription":"LG - 500 litres",
+        "price":18990,
+        "img":"https://th.bing.com/th/id/OIP.HS3xpE6Xi8jUqCL4n0labQHaHa?w=186&h=186&c=7&r=0&o=5&dpr=1.25&pid=1.7"
+    },
+    {
+        "pid":3,
+        "pname":"Whirpool",
+        "pdescription":"Whirlpool - Single Door",
+        "price":11990,
+        "img":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS-jFitvGokxdqqClUXuZNSebA0vg2fnQxLUP31KC-UHfNPACHmiuH13qmJ_t2oJgVRU5nO4xaLZdcuw8UZk9-0jNR9Ay4EPy4TTms2bCQj&usqp=CAE"
+    },
+    {
+        "pid":4,
+        "pname":"Godrej",
+        "pdescription":"Godrej - Double Door",
+        "price":21290,
+        "img":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTg01f1ZxiVCl5P-pvUiZFudHHGzqthqP03JaA3iC5p-YIjms0-88OSFqpNlbB9EloA3GJAJ_0FVGLWZDbZbaB4pXra30Z0ya675xlntrHKA03l8yMgdXljaQ&usqp=CAE"
+    },
+    {
+        "pid":5,
+        "pname":"Croma",
+        "pdescription":"Croma - Double Door Convertible",
+        "price":25999,
+        "img":"https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1661170201/Croma%20Assets/Large%20Appliances/Refrigerator/Images/252133_uidwiu.png/mxw_2048,f_auto"
+    },
+    {
+        "pid":6,
+        "pname":"Bosch",
+        "pdescription":"Bosch - 32litres - Triple Door",
+        "price":43490,
+        "img":"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTg01f1ZxiVCl5P-pvUiZFudHHGzqthqP03JaA3iC5p-YIjms0-88OSFqpNlbB9EloA3GJAJ_0FVGLWZDbZbaB4pXra30Z0ya675xlntrHKA03l8yMgdXljaQ&usqp=CAE"
+    },
+    {
+        "pid":1,
+        "pname":"Samsung",
+        "pdescription":"Samsung - Top Loading",
+        "price":10000,
+        "img":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTfIENDuauv7ZFXGNRSQuVdIdyef-AJQ-tHSP4P5ahKNe7_eDc7WXcITgD0kXRnlbdHpBFSnKfeETvTuKUzMCURW_Ln2WvoUnPXoqw70I8&usqp=CAE"
+    },
+    {
+        "pid":2,
+        "pname":"LG",
+        "pdescription":"LG - Automatic",
+        "price":18990,
+        "img":"https://mlvtgiqzoszz.i.optimole.com/Sb3K8mU-Band6g6L/w:auto/h:auto/q:90/https://www.appliancecity.co.uk/wp-content/uploads/2017/09/LG-fh495bdn8-washer-1.jpg"
+    },
+    {
+        "pid":3,
+        "pname":"Whirpool",
+        "pdescription":"Whirlpool - Front Loading",
+        "price":21990,
+        "img":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTIKMRFlDJFioKRat9eSA5eEIp7FvngMnBV-Z6HB1857eYB-bIGnI8B1nOwh_K_eukiSTi83Y4j-6CrGrg1E3_OFs3PR76xkQnM1YiDOfZE2LBrn1W-w-Ih&usqp=CAE"
+    },
+    {
+        "pid":4,
+        "pname":"Godrej",
+        "pdescription":"Godrej - Automatic",
+        "price":21290,
+        "img":"https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTsXF8Nc2C0VPC8AKnOLDPuMXRKMw-xsZb2_b3OPM8PIf-pedseIg-4uvYWVCfd3ncIZMFqX8ndao_DCpyIZMF9vdE60NnGjtecZcHJlfxWLd5LF6T5_yWlNA&usqp=CAE"
+    },
+    {
+        "pid":5,
+        "pname":"Croma",
+        "pdescription":"Croma - Top Loading",
+        "price":25999,
+        "img":"https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1655208534/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/243594_mavdro.png/mxw_2048,f_auto"
+    },
+    {
+        "pid":6,
+        "pname":"Bosch",
+        "pdescription":"Bosch - Front Loading",
+        "price":43490,
+        "img":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRfWRzfm7pmLwjjQHmnoB9YCTphSxHni2F63bXqcHk8lgbEUDhtRmS6oa6vf0xHhqH3FkiTUphL59vGffHqF1wRdmPRrKqvx1q4K6pufCLu53zooFio9pNR&usqp=CAE"
+    },
+    {
+        "pid":5,
+        "pname":"Croma",
+        "pdescription":"Croma - Top Loading",
+        "price":25999,
+        "img":"https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1655208534/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/243594_mavdro.png/mxw_2048,f_auto"
+    },
+    {
+        "pid":6,
+        "pname":"Bosch",
+        "pdescription":"Bosch - Front Loading",
+        "price":43490,
+        "img":"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRfWRzfm7pmLwjjQHmnoB9YCTphSxHni2F63bXqcHk8lgbEUDhtRmS6oa6vf0xHhqH3FkiTUphL59vGffHqF1wRdmPRrKqvx1q4K6pufCLu53zooFio9pNR&usqp=CAE"
+    },
+    {
+        "pid":1,
+        "pname":"Samsung ",
+        "pdescription":"double door",
+        "price":17550,
+        "img":"https://th.bing.com/th?id=OPA.6VN0OpKMMpfAng474C474&w=272&h=380&o=5&dpr=1.5&pid=21.1"
+    },
+    {"pid":2,
+        "pname":"whirlpool",
+        "pdescription":"Whirlpool double door ",
+        "price":27750,
+        "img":"https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1605167046/Croma%20Assets/Large%20Appliances/Refrigerator/Images/8944763666462.png/mxw_2048,s_webp,f_auto"
+    },
+    {
+        "pid":3,
+        "pname":"Godrej",
+        "pdescription":"Single door with built in freezer",
+        "price":21750,
+        "img":"https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1606483862/Croma%20Assets/Large%20Appliances/Refrigerator/Images/8976108879902.png/mxw_2048,s_webp,f_auto"
+    },
+    {
+        "pid":1,
+        "pname":"Samsung ",
+        "pdescription":"double door",
+        "price":17550,
+        "img":"https://th.bing.com/th?id=OPA.6VN0OpKMMpfAng474C474&w=272&h=380&o=5&dpr=1.5&pid=21.1"
+    },
+    {"pid":2,
+        "pname":"whirlpool",
+        "pdescription":"Whirlpool double door ",
+        "price":27750,
+        "img":"https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1605167046/Croma%20Assets/Large%20Appliances/Refrigerator/Images/8944763666462.png/mxw_2048,s_webp,f_auto"
+    },
+    {
+        "pid":3,
+        "pname":"Godrej",
+        "pdescription":"Single door with built in freezer",
+        "price":21750,
+        "img":"https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1606483862/Croma%20Assets/Large%20Appliances/Refrigerator/Images/8976108879902.png/mxw_2048,s_webp,f_auto"
+    }
+]
+   
+   
+   
+   

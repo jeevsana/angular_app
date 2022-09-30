@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import * as refrigerator from '../data/refrigerator.json';
+import * as refrigerator from "../data/refrigerator.json";
 
 @Component({
   selector: 'app-refrigerator',
@@ -25,10 +25,10 @@ export class RefrigeratorComponent implements OnInit {
 toggleContent(){
   var content='';
   if(this.productDetail){
-    content='fa fa-plus'
+    content='fa-solid  fa-arrow-up';
   }
   else{
-    content='fa fa-minus'
+    content='fa-solid fa-arrow-down';
   }
   return content;
 }

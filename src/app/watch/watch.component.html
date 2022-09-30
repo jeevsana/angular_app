@@ -1,0 +1,38 @@
+<!--fetch all the records from fridge property in the .ts file which is accessing the refrigerator.json-->
+<marquee>Gift latest watches to your loved ones</marquee>
+<div style="margin-top: 30px;">
+    <div class="row">
+        <!--1st column
+        <div class="col col-lg-5" style="margin-top: 30px;">
+           
+        </div>-->
+
+        <!--2nd column-->
+        <div class="card col-lg-7" style="border:none;margin-top:30px;">
+            <div class="card-body col-lg-12">
+                <div class="row" style="margin-top:10px;border-style:solid;border-color:black;border-radius:15px;"
+                    *ngFor="let watch of watch">
+                    <div class="col-lg-3">
+                        <!--Property Binding-->
+                        <img [src]="watch.img">
+                    </div>
+                    <div class="col-lg-9" style="margin-top:20px;">
+                        <!--Interpolation Binding-->
+                        <div>
+                            Product: {{ watch.pname | uppercase}}
+                            <span (click)="showproductDetailsToggle()" [ngClass]="toggleContent()"></span>
+                        </div>
+                        <hr>
+                        <div [hidden]="productDetail">
+                            Description: {{watch.pdescription}}
+                            <br>
+                            Price: {{ watch.price | currency:'INR'}}
+                            <br>
+                            <app-counter></app-counter>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

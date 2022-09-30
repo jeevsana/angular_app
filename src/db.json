@@ -1,0 +1,127 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "pname": "Daniel Klein",
+      "pdescription": "Women Charcoal Grey Analogue Watch DK.1.12260-2",
+      "price": "23445",
+      "img": "https://th.bing.com/th?id=OPA.woyxAqxT6cBykw474C474&w=165&h=220&dpr=1.5&pid=21.1"
+    },
+    {
+      "id": 2,
+      "pname": "Fastrack",
+      "pdescription": "Women Teal Blue Analogue Watch NL68006PP03_OR",
+      "price": 2200,
+      "img": "https://th.bing.com/th?id=OPA.Na3OmGBhAQjuiw474C474&w=165&h=220&dpr=1.5&pid=21.1"
+    },
+    {
+      "id": 3,
+      "pname": "Titan",
+      "pdescription": "Women Black Analogue Watch NK2481SL07",
+      "price": 1995,
+      "img": "https://th.bing.com/th?id=OPA.XxMCN4z2pN8Mmg474C474&w=165&h=220&dpr=1.5&pid=21.1"
+    },
+    {
+      "id": 4,
+      "pname": "Fossil",
+      "pdescription": "Women Blue Analogue Leather Watch",
+      "price": 6600,
+      "img": "https://th.bing.com/th?id=OPA.AuL%2fY2Rjb4wCZA474C474&w=165&h=220&dpr=1.5&pid=21.1"
+    },
+    {
+      "id": 5,
+      "pname": "Titan",
+      "pdescription": "Women Gold-Toned & Silver-Toned Analogue Watch",
+      "price": 1900,
+      "img": "https://th.bing.com/th?id=OPA.XqWOOx97BJv9MA474C474&w=165&h=220&dpr=1.5&pid=21.1"
+    },
+    {
+      "id": 20,
+      "pname": "saree",
+      "pdescription": "wertyuiokjhgfcvbn",
+      "price": "1235",
+      "img": "data:image/jpeg;base64,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"
+    }
+  ],
+  "users": [
+    {
+      "username": "john",
+      "useremail": "johnh123@gmail.com",
+      "password": "John@123",
+      "mobile": "123456789",
+      "id": 1
+    },
+    {
+      "username": "Admin",
+      "useremail": "admin@gmail.com",
+      "password": "admin@123",
+      "mobile": "9898989898",
+      "id": 3
+    },
+    {
+      "username": "Jancy",
+      "useremail": "jancy@gmail.com",
+      "password": "jancy123",
+      "mobile": "",
+      "id": 4
+    },
+    {
+      "username": "jeevana",
+      "useremail": "jeevanah@gmail.com",
+      "password": "1234@j",
+      "mobile": "",
+      "id": 5
+    },
+    {
+      "username": "jeevana",
+      "useremail": "aaanu123@gmail.com",
+      "password": "",
+      "mobile": "",
+      "id": 6
+    }
+  ],
+  "cart": [
+    {
+      "id": 2,
+      "pid": 3,
+      "pname": "Titan",
+      "pdescription": "Women Black Analogue Watch NK2481SL07",
+      "price": 1995,
+      "img": "https://th.bing.com/th?id=OPA.XxMCN4z2pN8Mmg474C474&w=165&h=220&dpr=1.5&pid=21.1",
+      "quantity": 3
+    },
+    {
+      "id": 4,
+      "pid": 3,
+      "pname": "Titan",
+      "pdescription": "Women Black Analogue Watch NK2481SL07",
+      "price": 1995,
+      "img": "https://th.bing.com/th?id=OPA.XxMCN4z2pN8Mmg474C474&w=165&h=220&dpr=1.5&pid=21.1",
+      "quantity": 3
+    },
+    {
+      "pname": "DELL",
+      "pdescription": "Vostro 3510 Laptop",
+      "price": 13999,
+      "img": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/vostro-notebooks/15-3510/media-gallery/archive/dv3510nt_cnb_00000ff090_bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,1&resMode=sharp2&size=402,402&chrss=full",
+      "quantity": 3,
+      "id": 6
+    },
+    {
+      "pname": "DELL",
+      "pdescription": "Vostro 3510 Laptop",
+      "price": 13999,
+      "img": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/vostro-notebooks/15-3510/media-gallery/archive/dv3510nt_cnb_00000ff090_bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,1&resMode=sharp2&size=402,402&chrss=full",
+      "quantity": 5,
+      "id": 7
+    },
+    {
+      "pname": "DELL",
+      "pdescription": "Vostro 3510 Laptop",
+      "price": 13999,
+      "img": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/vostro-notebooks/15-3510/media-gallery/archive/dv3510nt_cnb_00000ff090_bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,1&resMode=sharp2&size=402,402&chrss=full",
+      "quantity": 5,
+      "id": 8
+    }
+  ]
+}

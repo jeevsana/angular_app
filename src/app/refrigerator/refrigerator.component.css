@@ -1,15 +1,21 @@
 img{
     height: 100px;
-    width: 100px;
-    margin-top: 10px;
+    width: 200px;
+    margin-left: 10px;
+    margin-left: 10px;
     margin-bottom: 10px;
     border-radius: 10px;
 }
 .product{
-    height: 100px;
-    width: 100px;
-    margin-top: 10px;
+    height:100px;
+    width: 1800px;
+    margin-top: 100px;
     margin-bottom: 10px;
     border-radius: 10px;
     
+}
+marquee{
+    text-shadow:2px 3px 3px rgba(251, 226, 3, 0.724);
+    color:rgb(4, 4, 4);
+    font-size: 28px;
 }

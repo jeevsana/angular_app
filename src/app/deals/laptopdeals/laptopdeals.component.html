@@ -1,0 +1,18 @@
+<marquee>Amazing Deals on Laptops !! BUY NOW</marquee>
+<div style="margin-top: 30px;">
+    <div class="row">
+        <!--1st column-->
+        <div class="col col-lg-12">       
+        </div>
+
+        <!--2nd column-->
+        <div class="card col-lg" style="border:none;margin-top: 30px;">
+            <app-deals [product]="productItem" *ngFor="let productItem of all"></app-deals>
+        </div>
+        <!--3rd column-->
+        <div class="col col-lg-3">
+            <app-advertisement></app-advertisement>
+            <app-advertisement></app-advertisement>
+        </div>
+    </div>
+</div>

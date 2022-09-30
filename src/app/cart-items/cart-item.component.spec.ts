@@ -1,20 +1,20 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { MicrowaveComponent } from './microwave.component';
+import { CartItemsComponent } from './cart-item.component';
 
-describe('MicrowaveComponent', () => {
-  let component: MicrowaveComponent;
-  let fixture: ComponentFixture<MicrowaveComponent>;
+describe('CartItemsComponent', () => {
+  let component: CartItemsComponent;
+  let fixture: ComponentFixture<CartItemsComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ MicrowaveComponent ]
+      declarations: [ CartItemsComponent ]
     })
     .compileComponents();
   });
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(MicrowaveComponent);
+    fixture = TestBed.createComponent(CartItemsComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

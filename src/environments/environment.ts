@@ -3,8 +3,12 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  userapi:"http://localhost:3000/users",
+  cartapi:"http://localhost:3000/cart",
+  postapi:"http://localhost:3000/posts"
 };
+
 
 /*
  * For easier debugging in development mode, you can import the following file

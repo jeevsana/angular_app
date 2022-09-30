@@ -1,14 +1,26 @@
-<marquee>Lightning deals in amazon</marquee>
-<div *ngFor="let prod of product" style="border:none;">
+<marquee>Lightning deals in flipkart</marquee>
+
+<hr>
+<div class="row">
+    <app-allproducts></app-allproducts>
+</div>
+<hr>
+<div *ngFor="let prod of product" style="border:none;margin-top:30px;">
     <div class="row">
-        <div class="card col-sm-6" style="border:none;">
-            <div class="card-body col-sm-12">
+        <!--1st column-->
+        <div class="col col-lg-3">
+            <!--Property Binding-->
+            <img [src]="prod.img" class="prodimg">
+        </div>
+        <!--2nd column-->
+        <div class="card col-lg-6" style="border:none;">
+            <div class="card-body col-lg-12">
                 <div class="row" style="margin-top:10px;border-style:solid;border-color:black;border-radius:15px;">
-                    <div class="col-sm-3">
+                    <div class="col-lg-3">
                         <!--Property Binding-->
                         <img [src]="prod.img">
                     </div>
-                    <div class="col-sm-9" style="margin-top:20px;">
+                    <div class="col-lg-9" style="margin-top:40px;">
                         <!--Interpolation Binding-->
                         <div>
                             Product: {{prod.pname | uppercase}}
@@ -16,10 +28,16 @@
                             Description: {{prod.pdescription}}
                             <br>
                             Price: {{prod.price | currency:'INR'}}
+                            <br>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>     
+        </div>
+        <!--3rd column-->
+        <div class="col col-lg-3">
+            <!--Property Binding-->
+            <img [src]="prod.img" class="prodimg">
+        </div>
     </div>
 </div>

@@ -1,0 +1,53 @@
+[
+    {
+        "pid":1,
+        "pname":"DELL",
+        "pdescription":"Vostro 3510 Laptop",
+        "price":13999,
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/vostro-notebooks/15-3510/media-gallery/archive/dv3510nt_cnb_00000ff090_bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=402&qlt=100,1&resMode=sharp2&size=402,402&chrss=full"
+    },
+    {
+        "pid":2,
+        "pname":"ASUS",
+        "pdescription":"ASUS TUF Gaming F15 FX506LH-HN258W",
+        "price":67999,
+        "img":"https://d39d98bvxoocym.cloudfront.net/media/catalog/product/2/7/2749b4d79_171979_b_o5tio96agqtdumsr.jpg?width=800&height=800&store=en_IN&image-type=image"
+    },
+    {
+        "pid":3,
+        "pname":"SAMSUNG",
+        "pdescription":"New Arrival Galaxy Book2 Pro",
+        "price":97999,
+        "img":"https://images.samsung.com/is/image/samsung/assets/in/galaxy-book/feature/buy/book2-pro/update_0602/5-mo.jpg?imwidth=720"
+    },
+    {
+        "pid":4,
+        "pname":"DELL",
+        "pdescription":"inspiron laptop i7",
+        "price":97999,
+        "img":"https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/vostro-notebooks/15-3510/media-gallery/archive/dv3510nt_cnb_00055lf110_bk.psd?fmt=png-alpha&scl=1&hei=92&wid=92&qlt=100,1&resMode=sharp2&size=92,92&chrss=full"
+    },
+    {
+        "pid":5,
+        "pname":"ASUS",
+        "pdescription":"ASUS VivoBook 15 X515JA-BQ302W",
+        "price":65999,
+        "img":"https://d39d98bvxoocym.cloudfront.net/media/catalog/product/f/9/f990a631c_178136_b_r6bf86ea1kpfnhgx.jpg?width=800&height=800&store=en_IN&image-type=image"
+    },
+    {
+        "pid":6,
+        "pname":"SIMATIC Field",
+        "pdescription":"6ES7718-1BB12-0AC0 SIEMENS",
+        "price":53999,
+        "img":"https://in.wiautomation.com/public/images/landing/anticipa/product/6ES77181BB120AC0.jpg"
+    },
+    {
+        "pid":7,
+        "pname":"HP",
+        "pdescription":"ho 15s-eq2144au laptop",
+        "price":87999,
+        "img":"https://www.reliancedigital.in/medias/HP15s-EQ2144AU-Laptop-492575360-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNTc4ODh8aW1hZ2UvanBlZ3xpbWFnZXMvaDI4L2g1Ny85ODIyNTYwOTc2OTI2LmpwZ3xjYzY4NmJiNDkyZmQzYzk4MzQ3NDY1YWRkN2FmNzcwYmMyMGFlNjBjNzY5MDQ0YzFhNzIxNjQyMTdkMWUyMzRm"
+    }
+    
+
+]

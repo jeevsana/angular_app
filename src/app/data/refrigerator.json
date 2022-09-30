@@ -4,19 +4,45 @@
         "pname":"Samsung ",
         "pdescription":"double door",
         "price":17550,
-        "img":"https://th.bing.com/th?id=OPA.6VN0OpKMMpfAng474C474&w=272&h=380&o=5&dpr=1.5&pid=21.1"
+        "img":"https://th.bing.com/th?id=OPA.6VN0OpKMMpfAng474C474&w=272&h=380&o=5&dpr=1.5&pid=21.1",
+        "status":"in stock"
     },
     {"pid":2,
         "pname":"whirlpool",
         "pdescription":"Whirlpool double door ",
-        "price":12750,
-        "img":"https://th.bing.com/th/id/OIP.KNeWxFAPajg6as9HYwFu0wHaHZ?pid=ImgDet&rs=1"
+        "price":27750,
+        "img":"https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1605167046/Croma%20Assets/Large%20Appliances/Refrigerator/Images/8944763666462.png/mxw_2048,s_webp,f_auto",
+        "status":"in stock"
     },
     {
         "pid":3,
         "pname":"Godrej",
         "pdescription":"Single door with built in freezer",
         "price":21750,
-        "img":"https://th.bing.com/th/id/OIP.KNeWxFAPajg6as9HYwFu0wHaHZ?pid=ImgDet&rs=1"
+        "img":"https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1606483862/Croma%20Assets/Large%20Appliances/Refrigerator/Images/8976108879902.png/mxw_2048,s_webp,f_auto",
+        "status":"in stock"
+    },
+    {
+        "pid":1,
+        "pname":"Samsung ",
+        "pdescription":"double door",
+        "price":17550,
+        "img":"https://th.bing.com/th?id=OPA.6VN0OpKMMpfAng474C474&w=272&h=380&o=5&dpr=1.5&pid=21.1",
+        "status":"in stock"
+    },
+    {"pid":2,
+        "pname":"whirlpool",
+        "pdescription":"Whirlpool double door ",
+        "price":27750,
+        "img":"https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1605167046/Croma%20Assets/Large%20Appliances/Refrigerator/Images/8944763666462.png/mxw_2048,s_webp,f_auto",
+        "status":"in stock"
+    },
+    {
+        "pid":3,
+        "pname":"Godrej",
+        "pdescription":"Single door with built in freezer",
+        "price":21750,
+        "img":"https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1606483862/Croma%20Assets/Large%20Appliances/Refrigerator/Images/8976108879902.png/mxw_2048,s_webp,f_auto",
+        "status":"out of stock"
     }
 ]
