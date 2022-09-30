@@ -1,90 +1,23 @@
-<marquee>Lightning deals in flipkart</marquee>
-
-<!--<div class="row"  *ngFor="let f of fridge" style="border:none;float:left;">
-    <div class="refrigerator">
-<div class="row" styke="width:100%;margin-left:20px;">
-      <div class="card col-lg-6" style="border:none;">
-        <div class ="card-body col-lg-12">
-          <div class="row" style="margin-top:10px; border-style:solid;border-color: black;border: radius 50px;">-->
-            <!--<div class= "col-lg-3">-->
-              <!--proprty binding-->
-             <!-- <img [src]="f.img">
-              </div>
-              <div class="col-lg-9" style ="float:left; margin-left: 50px;">
-                <br>-->
-                <!--interpolition-->
-                <!--<div>
-                  Product: {{f.pname | uppercase }}
-                  <span (click)="showproductDetailsToggle()" [ngClass]="toggleContent()"></span>
-                  </div>
-                  <hr>
-                  <br>
-                  <div [hidden]="productDetail">
-                  Description: {{f.pdescription}}
-                  <br>
-                  Price: {{f.price| currency:'INR'}}
-                  <br>
-                  <app-counter></app-counter>
-                </div>
-              </div>
-          </div>
-      </div> 
-      </div> -->
-
-
-      
-      <div  class="row" *ngFor="let f of fridge"  [ngSwitch]= "f.Status"   style="border:none;float:left;">
-        <div class="fridge">
-            <!--1st column-->
-           <!--<div class="col col-lg-3">--> 
-                <!--Property Binding-->
-                <div>
-                    <img [src]="f.img" alt=""> 
-                    <hr>
-                </div>
-                <!--<img [src]="f.img" class="prodimg"> 
-            </div>-->
-            <!--2nd column-->
-            <div class="card col-lg-6" style="border:none;">
-                <div class="card-body col-lg-12">
-                    <div class="row" style="margin-top:10px;border-style:solid;border-color:black;border-radius:15px;">
-                        <div class="col-lg-3">
-                            <!--Property Binding-->
-                            <img [src]="f.img">
-                        </div>
-                        <div class="col-lg-9" style="margin-top:20px;">
-                            <!--Interpolation Binding-->
-                            <div>
-                                Product: {{f.pname | uppercase}}
-                                <span (click)="showproductDetailsToggle()" [ngClass]="toggleContent()"></span>
-                            
-                            <hr>
-                            <div [hidden]="productDetail">
-                                Description: {{f.pdescription}}
-                                <br>
-                                Price: {{f.price | currency:'INR'}}
-                                <br>
-                                <div>
-                                    <div style="float:left;"><p class="desc" style="padding-right: 10px;"><b>Status:</b></p></div>
-                                    <div  style="padding-left:10px ;float:center;">
-                                    <p *ngSwitch="'In stock'" class="text-success">
-                                    {{f.Status}}
-                                    </p>
-                                    <p *ngSwitchDefault class="text-danger">
-                                    {{f.Status}}
-                                    </p>
-                                 </div>
-                                </div> 
-                                <app-counter></app-counter>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--3rd column-->
-           <!--- <div class="col col-lg-3">-->
-                <!--Property Binding-->
-               <!--- <img [src]="f.img" class="prodimg">-->
-            </div>
-        <!--</div>-->
-   <!--- </div>-->
+<marquee width="100%">Lightning deals in flipkart</marquee>
+<div class="row" *ngFor="let f of fridge" [ngSwitch]="f.Status" style="border-radius:10px;border:none;float:left;" >
+<div class="fridge">
+    <div>
+        <img [src]="f.img" alt="">
+        <hr>
+    </div>
+    <div class="fridge-boby">
+        <p class="desc"><b>Product:</b> {{f.pname|uppercase}}</p>
+        <p class="desc"><b>Description:</b> {{f.pdescription}}</p>
+        <p class="desc"><b>Price:</b> {{f.price | currency :'INR'}}</p>
+    </div>
+    <div style="float: left;"><p class="desc1" style="padding-right: 10px;"><b>Status:</b></p></div>
+    <div style="padding-left: 10px;float: center;">
+    <p *ngSwitchCase="'In Stock'" class="text-success">
+        {{f.Status}}
+    </p>
+    <p *ngSwitchCase="'Out of Stock'" class="text-danger">
+        {{f.Status}}
+    </p>
+    </div>
+</div>
+</div>
