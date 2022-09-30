@@ -26,6 +26,7 @@ import { LoginComponent } from './login/login.component';
 import { CartItemsComponent } from './cart-items/cart-item.component';
 import { DealsComponent } from './deals/deals.component';
 import { LaptopdealsComponent } from './deals/laptopdeals/laptopdeals.component';
+import { AdminComponent } from './admin/admin.component';
 
 
 
@@ -54,6 +55,7 @@ import { LaptopdealsComponent } from './deals/laptopdeals/laptopdeals.component'
     CartItemsComponent,
     DealsComponent,
     LaptopdealsComponent,
+    AdminComponent
     
     
       
