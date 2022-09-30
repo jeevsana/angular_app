@@ -7,7 +7,7 @@
         "img":"https://th.bing.com/th?id=OPA.6VN0OpKMMpfAng474C474&w=272&h=380&o=5&dpr=1.5&pid=21.1",
         "Status":"In Stock"
     },
-    {"pid":2,
+    {   "pid":2,
         "pname":"whirlpool",
         "pdescription":"Whirlpool double door ",
         "price":27750,
